@@ -1,4 +1,4 @@
-# apiNodeEs6GitHub
+# apiNodeEs6
 <small><em>Api Node com novas features do ES6...(construído junto as aulas free da Rocketseat)</em></small>
 <hr>
 <h3>O que foi usado:</h3>
